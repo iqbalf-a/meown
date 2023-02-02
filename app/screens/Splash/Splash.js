@@ -16,7 +16,7 @@ const Splash = (props) => {
     React.useEffect(() => {
         setTimeout(() => {
             onNavigate()
-        }, 3000)
+        }, 500)
     })
 
     return (
